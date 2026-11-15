@@ -1,0 +1,59 @@
+1
+00:00:00,200 --> 00:00:03,548
+[ARMAND] Ce chiffre n'est pas un cadeau, Léo. C'est un outil.
+
+2
+00:00:04,063 --> 00:00:06,869
+[ARMAND] Un chiffre montre ce qu'ils ont. Pas ce qu'ils valent.
+
+3
+00:00:07,319 --> 00:00:10,673
+[ARMAND] Achète quand leur chiffre baisse. Vends quand il monte.
+
+4
+00:00:11,123 --> 00:00:12,723
+[ARMAND] Ne dévoile jamais ton chiffre.
+
+5
+00:00:14,038 --> 00:00:18,203
+[LÉO] Je voyais qui avait besoin de vendre. Et qui avait envie d'acheter.
+
+6
+00:00:19,565 --> 00:00:24,672
+[LÉO] Chaque euro allait d'abord aux dettes. Le loyer. La cantine. Le téléphone.
+
+7
+00:00:25,322 --> 00:00:30,109
+[LÉO] Mois un. Zéro. Pour la première fois, je ne devais rien à personne.
+
+8
+00:00:30,759 --> 00:00:34,808
+[LÉO] Au lycée, mon absence ne dérangeait personne. Même pas elle.
+
+9
+00:00:35,648 --> 00:00:40,926
+[LÉO] Mois trois. Vingt-cinq mille euros. Plus que Maxime. Et personne ne le savait.
+
+10
+00:00:41,621 --> 00:00:46,303
+[LÉO] Pas un week-end. Pas un anniversaire. Pas un message.
+
+11
+00:00:47,375 --> 00:00:50,609
+[LÉO] Le jour où j'ai dépassé le million, personne ne m'a écrit.
+
+12
+00:00:51,964 --> 00:00:54,100
+[LÉO] Lundi, je retourne au lycée.
+
+13
+00:00:54,250 --> 00:00:54,776
+[ARMAND] Tu es prêt ?
+
+14
+00:00:55,664 --> 00:00:57,512
+[LÉO] Même sweat. Même Léo.
+
+15
+00:00:59,100 --> 00:01:00,907
+[LÉO] Il dévoile... ou il garde le secret ?
